@@ -230,7 +230,7 @@ let mainChart = null;
 /* ===== NAVIGATION ===== */
 
 function goToWebsite(){
-    window.open("nat.html", "_blank");
+    window.open("nat indexhtml.html", "_blank");
 }
 
 function goToFarmWebsite(){
